@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export const api = axios.create({
-  baseURL: `https://demo-kureji.herokuapp.com`,
+  baseURL: `https://pilketosserver1.herokuapp.com/`,
   withCredentials: true,
 });
 // this file is curently ignored in gitignore
