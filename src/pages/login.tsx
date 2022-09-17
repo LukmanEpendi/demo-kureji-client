@@ -26,7 +26,7 @@ function Login() {
         </div>
         <div className="relative max-w-md sm:self-end md:w-3/4 align my-auto h-screen ">
           <h1 className="text-4xl mx-auto w-fit font-semibold py-10">
-            Demo-kureji
+            PILKETOS
           </h1>
           <div id="form-wrapper">
             <div id="loginregis" className="flex justify-around">
